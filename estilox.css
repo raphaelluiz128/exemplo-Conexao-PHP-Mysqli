@@ -1,0 +1,65 @@
+#divsite{width:250px; height:250px;position:absolute;
+top:1%;left:2%;
+background-color:black;
+font:24px Arial;
+}
+
+#divcabecalho{
+background-color: red;position:absolute;
+top:1%;left:2%;color: white;
+border-style:solid;border-color:red;
+font:14px Arial;
+font-size:50%;width: 100%;height: 10%;}
+
+
+#divconteudo{
+background-color: white;font-size:10%;
+font:14px Arial;
+font-weight:bolder;color:black;border-style:solid;border-color:red;
+position:absolute;top:10%;left:2%;
+width: 100%; height:50%;}
+
+
+
+
+#divMostrarTU{
+	position:absolute; top:40%;left:5%; width:80%; height:40%;
+	border-style:solid;border-color:grey;
+	overflow: auto;
+	
+}
+
+
+#divrodape{
+background-color: orange;position:absolute;
+top:89%;left:2%;color: white;
+font-size:20%;
+font:14px Arial;width: 100%;height: 10%;
+border-style:solid;border-color:red;}
+
+
+#formcad
+{border-style:solid;border-color:green;
+border-width:2px;}
+#tabela1 {
+	width:100%;
+	border-width: 2px;
+    border-style: solid;
+    border-color: green;
+}
+#coluna1 {
+	width:30%;
+	border-width: 1px;
+    border-style: solid;
+    border-color: green;
+}
+
+#subtexto1{
+	font-size:30%;
+	font:18px Arial;
+	text-align:center;
+}
+
+
+
+
